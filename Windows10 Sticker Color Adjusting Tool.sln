@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29006.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows10 Sticker Color Adjusting Tool", "Windows10 Sticker Color Adjusting Tool\Windows10 Sticker Color Adjusting Tool.csproj", "{36718C1B-D2B8-4824-938E-750C81892E27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36718C1B-D2B8-4824-938E-750C81892E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36718C1B-D2B8-4824-938E-750C81892E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36718C1B-D2B8-4824-938E-750C81892E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36718C1B-D2B8-4824-938E-750C81892E27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E6C6D73-7560-44B9-98C1-4DDA6CF03E55}
+	EndGlobalSection
+EndGlobal
